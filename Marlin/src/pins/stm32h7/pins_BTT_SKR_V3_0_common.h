@@ -116,7 +116,7 @@
   #endif
 #else
   #ifndef Z_STOP_PIN
-    #define Z_STOP_PIN                      PC0   // Z-STOP
+    #define Z_STOP_PIN                      PC13   // Z-STOP
   #endif
 #endif
 
